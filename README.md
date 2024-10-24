@@ -22,4 +22,4 @@
 
 ## ESTATÍSTICAS
 
-![GUSTAVO RUAS GitHub stats](https://github-readme-stats.vercel.app/api?username=SD-Ruas&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=SD-Ruas&show_icons=true&theme=radical)
